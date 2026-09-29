@@ -10,5 +10,6 @@
         $nombre = "Daniel";   
         $clase = "2ºDAW"
          ?>
+    <p>Hemos modificado este parrado desde el register</p>
 </body>
 </html>
